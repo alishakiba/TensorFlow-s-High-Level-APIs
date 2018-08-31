@@ -3,7 +3,6 @@ Get started with TensorFlow's High-Level APIs (Just a very simple code for learn
 # introduction
 this is a very simple example for who want to learn Tensorflow
 before you start that you should know that programming with python on jupyter and having some experiences to work with Pandas and Numpy.
-# step 1
 This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details, this is a fast-paced overview of a complete TensorFlow program with the details explained as we go.
 This guide uses [tf.keras](https://www.tensorflow.org/guide/keras), a high-level API to build and train models in TensorFlow.
 # TensorFlow and tf.keras
